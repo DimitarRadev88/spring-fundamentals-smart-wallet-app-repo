@@ -1,4 +1,4 @@
-package app.user.model;
+package app.user.model.enumeration;
 
 public enum Country {
     BULGARIA,
